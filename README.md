@@ -5,7 +5,15 @@
 ![image](https://user-images.githubusercontent.com/46298358/153759725-3037182a-153f-4947-9c71-5fbb3a19dfea.png)
 
 Результаты работы моделей:
+(так вышло, что картинки лошадей перевернуты)
+Лошадь в зебру:
 ![image](https://user-images.githubusercontent.com/46298358/153759857-d8b7fb65-1a6b-4700-9ab2-c5f4f57198ed.png)
+
+Зебра в лошадь
 ![image](https://user-images.githubusercontent.com/46298358/153759863-e9de0a22-57f7-4952-8b8b-dbd534436f24.png)
+
+Веселый в грустного
 ![image](https://user-images.githubusercontent.com/46298358/153759873-f89851ff-d74f-417b-87d3-78c7b7540d06.png)
+
+Грустный в веселого
 ![image](https://user-images.githubusercontent.com/46298358/153759879-a6abf4fd-3272-4955-b3ad-ee3db727517b.png)
