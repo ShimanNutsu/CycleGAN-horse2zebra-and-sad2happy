@@ -16,11 +16,11 @@
 
 ![image](https://user-images.githubusercontent.com/46298358/153759863-e9de0a22-57f7-4952-8b8b-dbd534436f24.png)
 
-Веселый в грустного
+Угрустнение человека
 
 ![image](https://user-images.githubusercontent.com/46298358/153759873-f89851ff-d74f-417b-87d3-78c7b7540d06.png)
 
-Грустный в веселого
+Увеселение человека
 
 ![image](https://user-images.githubusercontent.com/46298358/153759879-a6abf4fd-3272-4955-b3ad-ee3db727517b.png)
 
