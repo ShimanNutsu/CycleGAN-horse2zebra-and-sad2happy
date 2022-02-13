@@ -23,3 +23,7 @@
 Грустный в веселого
 
 ![image](https://user-images.githubusercontent.com/46298358/153759879-a6abf4fd-3272-4955-b3ad-ee3db727517b.png)
+
+
+
+Преобразование лошади в зебру 
